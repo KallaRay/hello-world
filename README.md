@@ -1,6 +1,6 @@
 # hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+Hello World. I am a manchester city fan and will always be.
+You can check out more about the club on www.mancity.com
 
 This repository is built step by step in the tutorial.
 
